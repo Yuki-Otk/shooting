@@ -27,13 +27,13 @@ public class CubeCamera : MonoBehaviour
         {
             if (hit.collider.gameObject.name.IndexOf(":") >= 0)
             {
-                SelectPressed = state.selectPressed;
-                if (SelectPressed)
-                {
+                //SelectPressed = state.selectPressed;
+                //if (SelectPressed)
+                //{
                     Debug.Log(hit.collider.gameObject.name);
                     GameObject temp = GameObject.Find(hit.collider.gameObject.name);
                     temp.SetActive(false);
-                }
+                //}
             }
         }
     }

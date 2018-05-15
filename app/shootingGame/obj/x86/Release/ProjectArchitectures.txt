@@ -1,0 +1,2 @@
+C:\Users\otkyu\Documents\unity\shootingGame\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\otkyu\Documents\unity\shootingGame\app\shootingGame\shootingGame.csproj;x86

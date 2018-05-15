@@ -592,11 +592,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 8085aece540bd501
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
@@ -664,12 +664,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: Template_3D
-  organizationId: 
+  cloudProjectId: c91327a8-cc1b-46cf-b604-74fa0fdc67ec
+  projectName: shootingGame
+  organizationId: yuki-otake
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
